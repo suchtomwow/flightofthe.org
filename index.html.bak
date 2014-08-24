@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Arvo:400,700&subset=latin" rel="stylesheet" type="text/css">
+		<link href="/css/style.css" rel="stylesheet">
+		<title>Flightofthe.org</title>
+	<head>
+	<body>
+		<h1>Flight of the</h1>
+		<hr>
+		<a href="https://github.com/thomasjcarey"><img alt="GitHub" title="GitHub" src="assets/github-64.png" /></a>
+		<a href="http://twitter.com/_tcarey"><img alt="Twitter" title="Twitter" src="assets/twitter-64.png" /></a>
+		<a href="mailto:hi@flightofthe.org"><img alt="Email" title="Email" src="assets/email-64.png" /></a>
+	</body>
+</html>
+		
