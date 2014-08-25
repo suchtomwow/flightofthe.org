@@ -6,10 +6,27 @@ h1, h2, h3, h4, h5, h6 {
 	color: inherit;
 }
 
+a:link {
+	text-decoration: none;
+	color: #008cba;
+	border-color: #008cba;
+	border-width: 0 0 1px 0;
+	border-style: none none solid none;
+	padding: 3px 0px 1px 0px;
+	background-color: inherit;
+}
+
 .fot-nav a:link {
 	color: #464646;
+	border-style: none none none none;
+}
+
+.fot-nav a:visited {
+	color: #464646;
+	border-style: none none none none;
 }
 
 .fot-nav a:hover {
 	color: #6a6a6a;
+	border-style: none none none none;
 }
