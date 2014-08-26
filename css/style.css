@@ -32,5 +32,10 @@ a:link {
 }
 
 #fot-active-page {
-	color: #6a6a6a;
+/*	color: #6a6a6a; */
+	border-color: inherit;
+	border-width: 0 0 3px 0;
+	border-style: none none solid none;
+	padding 0 0 1px 0;
+	background-color: inherit;
 }
